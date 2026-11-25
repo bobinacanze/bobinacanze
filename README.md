@@ -56,7 +56,7 @@
 
   <h1>Angležko</h1>
 
-  <h3>🇸🇮 English Learning Platform for Slovenians</h3>
+<h3>English Learning Platform for Slovenians</h3>
 
   <img src="https://img.shields.io/badge/MAIN%20PROJECT-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VERSION-2.0-22C55E?style=for-the-badge" />

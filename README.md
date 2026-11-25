@@ -1,4 +1,6 @@
 
+<!-- ==================== INTRODUCTION ==================== -->
+
 <div align="center">
 
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="65" />
@@ -7,14 +9,18 @@
 
   <h3>Mobile & Web Developer</h3>
 
-  <p>
-    📍 <b>Celje, Slovenia 🇸🇮</b>
-  </p>
+  <p>📍 <b>Celje, Slovenia 🇸🇮</b></p>
 
   <p>
     Passionate about building digital experiences, exploring new technologies,
     <br/>
     and turning ideas into reality.
+  </p>
+
+  <p>
+    🤖 I primarily use AI-assisted development in my workflow,
+    <br/>
+    while continuously learning, improving, and developing my coding skills independently.
   </p>
 
   <br/>
@@ -28,6 +34,8 @@
 
 ---
 
+<!-- ==================== TECHNOLOGIES ==================== -->
+
 <h2 align="center">⚡ Technologies & Tools</h2>
 
 <p align="center">
@@ -38,68 +46,203 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+<!-- ==================== MAIN PROJECT ==================== -->
 
-<p align="center">
-  A collection of projects I've developed, contributed to,
-  or worked on throughout my development journey.
-</p>
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+
+  <img src="https://anglezko.eu/icons/app-icon.png" width="120" />
+
+  <h1>Angležko</h1>
+
+  <h3>🇸🇮 English Learning Platform for Slovenians</h3>
+
+  <img src="https://img.shields.io/badge/MAIN%20PROJECT-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VERSION-2.0-22C55E?style=for-the-badge" />
+
+  <br/><br/>
+
+  <p>
+    <strong>
+      Making learning English easier, smarter, and more enjoyable.
+    </strong>
+  </p>
+
+  <p>
+    Angležko is a language-learning application designed specifically
+    for Slovenians. It combines interactive lessons, artificial intelligence,
+    machine learning, and gamification to create a personalized learning
+    experience.
+  </p>
+
+  <p>
+    Available on iOS, Android, and the web.
+  </p>
+
+  <br/>
+
+  <a href="https://anglezko.eu/">
+    <img src="https://img.shields.io/badge/WEBSITE-anglezko.eu-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://app.anglezko.eu/">
+    <img src="https://img.shields.io/badge/OPEN%20APP-Launch-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+</div>
 
 <br/>
+
+<h3 align="center">✨ Key Features</h3>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌍 Angležko</h3>
-      <p>A project currently in development.</p>
-      <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F59E0B?style=flat-square" />
+      <h3>🗺️ Learning Path</h3>
+      <p>
+        A structured learning journey from A1 to B2, featuring
+        lessons, stars, reviews, and challenging milestones.
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 SloLang</h3>
-      <p>A completed project from my development journey.</p>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 Luxz Cops VS Robbers</h3>
-      <p>A multiplayer gaming project.</p>
-      <img src="https://img.shields.io/badge/STATUS-DISCONTINUED-64748B?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎭 SloMafiaRP</h3>
-      <p>A roleplay project.</p>
-      <img src="https://img.shields.io/badge/STATUS-DISCONTINUED-64748B?style=flat-square" />
+      <h3>🧠 Smart Repetition</h3>
+      <p>
+        Machine learning helps identify difficult vocabulary
+        and brings words back at the right time for better retention.
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Freeway RP</h3>
-      <p>Discontinued after the owner shut down the project.</p>
-      <img src="https://img.shields.io/badge/STATUS-DISCONTINUED-64748B?style=flat-square" />
+      <h3>✨ AI Lessons</h3>
+      <p>
+        Generate personalized English lessons about virtually
+        any topic, with three difficulty levels.
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗺️ Luxz Maps</h3>
-      <p>Creating and developing custom maps.</p>
-      <img src="https://img.shields.io/badge/STATUS-ONGOING-8B5CF6?style=flat-square" />
+      <h3>🃏 Flashcards</h3>
+      <p>
+        Practice vocabulary with interactive flashcards,
+        organized by topics or previously completed lessons.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 Challenges & Leaderboards</h3>
+      <p>
+        Compete with friends and classmates, complete daily challenges,
+        earn achievements, and climb through 20 ranks.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Word Blitz & Streaks</h3>
+      <p>
+        Fast-paced vocabulary games, daily learning streaks,
+        and weekly progress tracking.
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
+<div align="center">
+
+  <p>
+    <strong>
+      Built with the goal of making English learning accessible,
+      interactive, and fun for Slovenians.
+    </strong>
+  </p>
+
+</div>
+
+<br/>
+
 ---
 
-<h2 align="center">👨‍💻 About My Work</h2>
+<!-- ==================== OTHER PROJECTS ==================== -->
+
+<h2 align="center">📂 Other Projects</h2>
 
 <p align="center">
-  I've worked on several other projects as well, including unfinished
-  experiments and projects that are no longer actively maintained.
-  <br/><br/>
-  The projects featured above represent just a selection of my development journey.
+  Other projects I've developed, contributed to, or worked on
+  throughout my development journey.
 </p>
 
 <br/>
+
+<div align="center">
+
+<table width="90%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>💻 SloLang</h3>
+      <p>A completed project from my development journey.</p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=flat-square" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🎮 Luxz Cops VS Robbers</h3>
+      <p>A multiplayer gaming project.</p>
+      <img src="https://img.shields.io/badge/STATUS-DISCONTINUED-64748B?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🎭 SloMafiaRP</h3>
+      <p>A roleplay project.</p>
+      <img src="https://img.shields.io/badge/STATUS-DISCONTINUED-64748B?style=flat-square" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🚗 Freeway RP</h3>
+      <p>Discontinued after the owner shut down the project.</p>
+      <img src="https://img.shields.io/badge/STATUS-DISCONTINUED-64748B?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>🗺️ Luxz Maps</h3>
+      <p>Creating and developing custom maps.</p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ==================== ABOUT MY WORK ==================== -->
+
+<h2 align="center">🧑‍💻 My Development Journey</h2>
+
+<p align="center">
+  I embrace AI-assisted development as an important part of my workflow,
+  using AI tools to build projects, solve problems, and bring ideas to life.
+  <br/><br/>
+  At the same time, I'm actively learning traditional programming,
+  strengthening my understanding of code, and working towards becoming
+  a more independent and well-rounded developer.
+</p>
+
+<br/>
+
+<p align="center">
+  I've also worked on several other projects, including unfinished
+  experiments and projects that are no longer actively maintained.
+  The projects listed above represent just a selection of my work.
+</p>
+
+<br/>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 

@@ -232,6 +232,25 @@
 <table width="90%">
   <tr>
     <td align="center" valign="top">
+      <h3>🪿 Goose</h3>
+      <p>
+        <a href="https://github.com/aardappel/goose">aardappel/goose</a>
+        · a memory-safe systems programming language with no heap, faster than C++ and Rust in its benchmarks
+      </p>
+      <p>
+        Fixed a compiler miscompile (<a href="https://github.com/aardappel/goose/issues/431">#431</a>):
+        a <code>defer</code> in a bool function was skipped when the function was inlined into an
+        <code>if</code>/<code>while</code> condition and returned <code>false</code>. Found the cause in the
+        C code generator and added a regression test covering 12 cases.
+      </p>
+      <a href="https://github.com/aardappel/goose/pull/439">
+        <img src="https://img.shields.io/github/pulls/detail/state/aardappel/goose/439?style=flat-square&label=PR%20%23439" />
+      </a>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
       <h3>📅 python-holidays</h3>
       <p>
         <a href="https://github.com/vacanza/holidays">vacanza/holidays</a>

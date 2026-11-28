@@ -249,6 +249,24 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>🧠 py-fsrs</h3>
+      <p>
+        <a href="https://github.com/open-spaced-repetition/py-fsrs">open-spaced-repetition/py-fsrs</a>
+        · Python implementation of FSRS, the spaced-repetition algorithm used by Anki
+      </p>
+      <p>
+        Fixed <code>review_card</code> rejecting valid UTC datetimes that use
+        <code>ZoneInfo("UTC")</code> or <code>pytz.utc</code>: it now checks the
+        UTC offset and normalizes to <code>timezone.utc</code>, with a regression test.
+      </p>
+      <a href="https://github.com/open-spaced-repetition/py-fsrs/pull/160">
+        <img src="https://img.shields.io/github/pulls/detail/state/open-spaced-repetition/py-fsrs/160?style=flat-square&label=PR%20%23160" />
+      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 </div>

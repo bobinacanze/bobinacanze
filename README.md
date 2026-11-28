@@ -217,6 +217,46 @@
 
 ---
 
+<!-- ==================== OPEN SOURCE ==================== -->
+
+<h2 align="center">🌍 Open Source Contributions</h2>
+
+<p align="center">
+  Contributions I've made to open-source projects used by developers around the world.
+</p>
+
+<br/>
+
+<div align="center">
+
+<table width="90%">
+  <tr>
+    <td align="center" valign="top">
+      <h3>📅 python-holidays</h3>
+      <p>
+        <a href="https://github.com/vacanza/holidays">vacanza/holidays</a>
+        · the go-to Python library for public holidays in 200+ countries
+      </p>
+      <p>
+        Updated Slovenia's holidays to the 2026 amendments of the
+        Slovenian Holidays Act: added the new <b>Triglav Day</b> (7 August)
+        and the renamed Prekmurje and Primorska holidays, with English and
+        Ukrainian translations and tests.
+      </p>
+      <a href="https://github.com/vacanza/holidays/pull/4285">
+        <img src="https://img.shields.io/github/pulls/detail/state/vacanza/holidays/4285?style=flat-square&label=PR%20%234285" />
+      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
 <!-- ==================== ABOUT MY WORK ==================== -->
 
 <h2 align="center">🧑‍💻 My Development Journey</h2>
